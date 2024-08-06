@@ -7,5 +7,5 @@ Basic arithmetic operations: addition, subtraction, multiplication, and division
 Clear (C) button to reset the input field.
 Equals (=) button to evaluate the expression and display the result.
 
-# Prerequisites
+# Prerequirements
 Python 3
